@@ -73,6 +73,11 @@ LOGGING = {
             "filename": "./log/django.log",
             "formatter": "verbose",
         },
+        "file2": {
+            "class": "logging.FileHandler",
+            "filename": "./log/django.log",
+            "formatter": "simple",
+        },
     },
     "loggers": {
         "django": {
@@ -80,8 +85,8 @@ LOGGING = {
             "level": "INFO",
         },
         "selfapp": {
-            "handlers": ["console"],
-            "level": "DEBUG",
+            "handlers": ["console", "file2"],
+            "level": "INFO",
             "propagate": True,
         },
     },

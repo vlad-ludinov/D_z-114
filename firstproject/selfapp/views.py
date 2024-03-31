@@ -7,7 +7,7 @@ logger = logging.getLogger(__name__)
 
 
 def index(request):
-    logger.info("Was says about Django project")
+    logger.info("Open URL with about Django project")
     return HttpResponse(
         """<h1>Мой первый проект на Django</h1>
 <hr>
@@ -19,7 +19,7 @@ def index(request):
 
 
 def about(request):
-    logger.debug("Was says some about me")
+    logger.info("Open URl with some about me")
     return HttpResponse(
         """<h1>Немного обо мне</h1>
 <hr>
