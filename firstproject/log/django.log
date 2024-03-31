@@ -1,0 +1,35 @@
+INFO 2024-03-31 13:25:41,139 autoreload 16160 57664 Watching for file changes with StatReloader
+INFO 2024-03-31 13:25:49,661 basehttp 16160 57244 "GET / HTTP/1.1" 200 12
+INFO 2024-03-31 13:25:55,961 basehttp 16160 57244 "GET /about HTTP/1.1" 301 0
+INFO 2024-03-31 13:25:55,975 basehttp 16160 81100 "GET /about/ HTTP/1.1" 200 8
+INFO 2024-03-31 13:32:50,456 autoreload 16160 57664 C:\Users\nonna\Desktop\програмирование\Д.з. влада\Д_з №114\D_z-114\firstproject\firstproject\urls.py changed, reloading.
+INFO 2024-03-31 13:32:51,583 autoreload 65412 82660 Watching for file changes with StatReloader
+INFO 2024-03-31 13:32:57,196 basehttp 65412 52444 "GET /about/ HTTP/1.1" 200 8
+INFO 2024-03-31 13:33:00,642 basehttp 65412 52444 "GET / HTTP/1.1" 200 12
+INFO 2024-03-31 13:37:11,379 autoreload 65412 82660 C:\Users\nonna\Desktop\програмирование\Д.з. влада\Д_з №114\D_z-114\firstproject\selfapp\views.py changed, reloading.
+INFO 2024-03-31 13:37:12,784 autoreload 61288 78432 Watching for file changes with StatReloader
+INFO 2024-03-31 13:39:13,857 autoreload 61288 78432 C:\Users\nonna\Desktop\програмирование\Д.з. влада\Д_з №114\D_z-114\firstproject\selfapp\views.py changed, reloading.
+INFO 2024-03-31 13:39:15,490 autoreload 3200 15868 Watching for file changes with StatReloader
+INFO 2024-03-31 13:47:14,239 autoreload 3200 15868 C:\Users\nonna\Desktop\програмирование\Д.з. влада\Д_з №114\D_z-114\firstproject\selfapp\views.py changed, reloading.
+INFO 2024-03-31 13:47:15,161 autoreload 74624 20664 Watching for file changes with StatReloader
+INFO 2024-03-31 13:47:20,422 basehttp 74624 72636 "GET / HTTP/1.1" 200 288
+WARNING 2024-03-31 13:47:20,709 log 74624 72636 Not Found: /favicon.ico
+WARNING 2024-03-31 13:47:20,710 basehttp 74624 72636 "GET /favicon.ico HTTP/1.1" 404 2444
+INFO 2024-03-31 13:48:55,334 autoreload 74624 20664 C:\Users\nonna\Desktop\програмирование\Д.з. влада\Д_з №114\D_z-114\firstproject\selfapp\views.py changed, reloading.
+INFO 2024-03-31 13:48:56,153 autoreload 17248 37068 Watching for file changes with StatReloader
+INFO 2024-03-31 13:48:59,772 basehttp 17248 59212 "GET / HTTP/1.1" 200 343
+INFO 2024-03-31 13:49:56,862 autoreload 17248 37068 C:\Users\nonna\Desktop\програмирование\Д.з. влада\Д_з №114\D_z-114\firstproject\selfapp\views.py changed, reloading.
+INFO 2024-03-31 13:49:57,603 autoreload 65132 38448 Watching for file changes with StatReloader
+INFO 2024-03-31 13:52:02,428 autoreload 65132 38448 C:\Users\nonna\Desktop\програмирование\Д.з. влада\Д_з №114\D_z-114\firstproject\selfapp\views.py changed, reloading.
+INFO 2024-03-31 13:52:03,935 autoreload 64084 78876 Watching for file changes with StatReloader
+INFO 2024-03-31 13:52:07,739 basehttp 64084 78640 "GET / HTTP/1.1" 200 371
+INFO 2024-03-31 13:52:22,275 autoreload 64084 78876 C:\Users\nonna\Desktop\програмирование\Д.з. влада\Д_з №114\D_z-114\firstproject\selfapp\views.py changed, reloading.
+INFO 2024-03-31 13:52:22,965 autoreload 83472 60060 Watching for file changes with StatReloader
+INFO 2024-03-31 13:52:26,553 basehttp 83472 65440 "GET / HTTP/1.1" 200 369
+INFO 2024-03-31 13:56:46,192 autoreload 83472 60060 C:\Users\nonna\Desktop\програмирование\Д.з. влада\Д_з №114\D_z-114\firstproject\selfapp\views.py changed, reloading.
+INFO 2024-03-31 13:56:47,300 autoreload 83004 69900 Watching for file changes with StatReloader
+INFO 2024-03-31 13:56:50,285 basehttp 83004 75592 "GET / HTTP/1.1" 200 288
+INFO 2024-03-31 13:57:00,588 basehttp 83004 9336 "GET /about/ HTTP/1.1" 200 753
+INFO 2024-03-31 13:57:11,819 autoreload 83004 69900 C:\Users\nonna\Desktop\програмирование\Д.з. влада\Д_з №114\D_z-114\firstproject\selfapp\views.py changed, reloading.
+INFO 2024-03-31 13:57:12,467 autoreload 82296 81040 Watching for file changes with StatReloader
+INFO 2024-03-31 13:57:14,548 basehttp 82296 83660 "GET /about/ HTTP/1.1" 200 753
